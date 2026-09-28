@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use Spatial-Velo, please cite this software and the associated manuscript."
+title: "Spatial-Velo"
+type: software
+authors:
+  - family-names: Zhao
+    given-names: Zhenjun
+  - family-names: Sun
+    given-names: Yuan
+  - family-names: Xia
+    given-names: Qiang
+version: 0.1.0
+date-released: 2026-09-28
+repository-code: "https://github.com/glory-zhao/Spatial-Velo"
+keywords:
+  - spatial transcriptomics
+  - RNA velocity
+  - subcellular localization
+  - nuclear export
+license: LicenseRef-Proprietary
+

@@ -1,0 +1,18 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local data and generated results
+data/test_data/
+results/
+pipeline_out/
+*.zip
+.release-assets/
+
+# Local editor settings
+.idea/
+.vscode/

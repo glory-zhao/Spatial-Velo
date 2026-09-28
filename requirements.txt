@@ -1,0 +1,17 @@
+numpy==1.26.4
+pandas==2.3.2
+scipy==1.12.0
+tifffile==2023.4.12
+tqdm==4.66.5
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.8.0
+umap-learn==0.5.12
+networkx==3.3
+pot==0.9.5
+python-igraph==1.0.0
+leidenalg==0.10.2
+hdbscan==0.8.40
+statsmodels==0.14.2
+jupyterlab>=4,<5
+ipykernel>=6,<7
